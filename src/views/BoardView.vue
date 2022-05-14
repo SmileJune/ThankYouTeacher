@@ -89,7 +89,11 @@
       <hr />
       <div class="box">
         <div class="comment">
-          <div>오정환</div>
+          <div>
+            싸피를 통해 프로그래밍을 처음배워서 걱정이 많았는데 라이브에서 이해
+            못한부분들을 웹엑스 시간을 통해서 설명을 잘 해주셔서 1학기를 잘 보낼
+            수 있었습니다. 꾸준히 발전하는 제자가 되도록 노력하겠습니다.
+          </div>
         </div>
         <div class="photo">
           <img src="@/assets/photo/jh.png" alt="오정환" />
@@ -103,7 +107,11 @@
           <div class="name">장정훈</div>
         </div>
         <div class="comment">
-          <div>장정훈</div>
+          <div>
+            쌤 혼자 공부하기 어려웠던 부분 너무 쉽게 많이 알려주셔서
+            감사합니다!! 대전 4반 다같이 얼굴보고 얘기하면서 놀고싶어요~~
+            대면하면 다같이 봐요!!
+          </div>
         </div>
       </div>
       <hr />
